@@ -1,0 +1,28 @@
+.info-hab{
+    margin-left: 20px;
+}
+
+.image-hab{
+    margin-left: 20px;
+    margin-top: 20px
+}
+
+.button-hab{
+    text-align: right;
+    margin-right: 20px;
+    text-decoration: none;
+}
+
+.precio{
+    font-weight: bold;
+}
+
+.button-link-hab{
+    color: #F5F5DC;
+    text-decoration: none;
+}
+
+.button-link-hab:hover{
+    color: white;
+    text-decoration: none;
+}

@@ -1,0 +1,144 @@
+footer {
+    width: 100%;
+    padding-top: -20px;
+    position: relative;
+    bottom: 0;
+    left: 0;
+    background: #930001;
+  }
+  
+  footer .content {
+    max-width: 1350px;
+    margin: auto;
+    padding: 20px;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
+  }
+  
+  footer .content p,
+  a {
+    color: #F5F5DC;
+  }
+  
+  footer .content .box {
+    width: 49%;
+    -webkit-transition: all 0.4s ease;
+    transition: all 0.4s ease;
+  }
+  
+  footer .content .topic {
+    font-size: 22px;
+    font-weight: 600;
+    color: #fff;
+    margin-bottom: 16px;
+  }
+  
+  footer .content p {
+    text-align: justify;
+    padding-right: 80px;
+  }
+  
+  footer .content .lower .topic {
+    margin: 24px 0 5px 0;
+  }
+  
+  footer .content .lower i {
+    padding-right: 16px;
+  }
+  
+  footer .content .middle {
+    padding-left: 80px;
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+  }
+  
+  footer .content .middle a {
+    line-height: 32px;
+  }
+  
+  footer .content .media-icons a {
+    font-size: 16px;
+    height: 45px;
+    width: 45px;
+    display: inline-block;
+    text-align: center;
+    line-height: 43px;
+    border-radius: 5px;
+    border: 2px solid #ffff;
+    margin: 30px 5px 0 0;
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+    text-decoration: none;
+  }
+  
+  footer .content .media-icons p {
+    -webkit-box-pack: center;
+        -ms-flex-pack: center;
+            justify-content: center;
+    text-align: center;
+    margin: 30px 5px 0 0;
+    padding-left: 80px;
+  }
+  
+  .content .media-icons a:hover {
+    border-color: #ffc304;
+  }
+  
+  footer a {
+    -webkit-transition: all 0.3s ease;
+    transition: all 0.3s ease;
+  }
+  
+  footer a:hover {
+    color: #ffc304;
+  }
+
+  .left{
+    margin-left: 24px;
+    padding-left: 50px;
+  }
+
+  .right{
+    text-align: center;
+    padding-left: 200px;
+    text-decoration: none;
+  }
+
+  .contenedor{
+    padding: auto;
+  }
+
+  a:link, a:hover{
+    color: #F5F5DC;
+    text-decoration: none;
+  }
+  
+  .contacto{
+    color: #F5F5DC;
+  }
+
+  .titulo-mapa{
+    color: #F5F5DC;
+  }
+
+  .links-mapa{
+    text-decoration: none;
+  }
+  
+  .link-mapa{
+    color: #F5F5DC;
+    text-decoration: none;
+  }
+
+  .icono-footer{
+    color: #F5F5DC;
+    text-decoration: none;
+  }

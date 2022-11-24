@@ -1,0 +1,36 @@
+.titulo{
+    margin: 20px;
+    margin-left: 130px;
+    color: #930001;
+    font-weight: bold;
+}
+
+.card-cliente{
+    width: 80%;
+    margin-left: 120px;
+    
+}
+
+.form-cliente{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.enviar-info{
+    text-align: right;
+    margin-right: 160px;
+    
+}
+
+.info-cliente{
+    margin-bottom: 20px;
+}
+
+.button-link-reserva{
+    color: #f5f5dc;
+    text-decoration: none;
+  }
+  .button-link-reserva:hover{
+    color: white;
+    text-decoration: none;
+  }

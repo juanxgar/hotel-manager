@@ -1,0 +1,27 @@
+hr{
+    text-align: left;
+    margin-left: 20px;
+    width: 90%;
+
+}
+p{
+    margin-left: 20px;
+}
+
+.linea-email{
+    width: 95%;
+}
+
+.alineacion-info{
+    text-align: end;
+    margin-right: 25px;
+}
+
+.texto-principal{
+    font-weight: bold;
+}
+
+.tarjeta-cliente{
+    margin-left: 100px;
+    margin-bottom: 30px;
+}

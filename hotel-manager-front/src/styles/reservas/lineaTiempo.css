@@ -1,0 +1,35 @@
+#circulo{
+    height:30px;
+    width:30px;
+    background:#930001;
+    -moz-border-radius:15px;
+    -webkit-border-radius:15px;
+    border-radius:15px;
+    border: solid 1px #930001;
+ }
+ #circulo2{
+    height:30px;
+    width:30px;
+    background:#F5F5DC;
+    -moz-border-radius:15px;
+    -webkit-border-radius:15px;
+    border-radius:15px;
+    border: solid 1px #930001;
+ }
+
+ hr {
+    height: 3px;
+    background-color: black;
+    width: 100%;
+}
+
+.pos-cir{
+    text-align: center;
+    display: flex;
+    justify-content: center;
+}
+.texto{
+    margin-top: 3px;
+    color: #930001;
+}
+

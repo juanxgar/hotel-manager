@@ -1,0 +1,201 @@
+.pago{
+  background-color:#F5F5DC;
+}
+.pago .margen-footer{
+  background-color:#F5F5DC;
+  height: 27px;
+}
+
+.pago .margen-footer-productoscliente{
+  background-color:#F5F5DC;
+  height: 20px;
+}
+
+.imagen-pago{
+    border-radius: 8px;
+    width: 150px;
+    height: 150px;
+  }
+
+.total{
+    background-color:#F5F5DC;
+    margin-bottom: 30px;
+    height: 300px;
+  }
+
+  .principal-cuenta-habitacion .titulo-seleccion-habitacion{
+    font: nunito;
+    font-weight: bold;
+    background-color:#F5F5DC;
+    color:#930001 ;
+    margin-left: 298px;
+    margin-right: 400px;
+  }
+  .principal-cuenta-habitacion .registro-producto-title{
+    font: nunito;
+    font-weight: bold;
+    background-color:#F5F5DC;
+    color:#930001 ;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+
+  .principal-cuenta-habitacion .principal-registrar-producto{
+    margin-left: 290px;
+    margin-right: 290px;
+    background-color:#F5F5DC;
+    border: 0px;
+    align-content: center;
+    padding:4px;
+    width: "100%";
+    height: 370px;
+    overflow-x: hidden;
+    overflow-y: auto;
+  }
+
+
+  .principal-cuenta-habitacion .principal-registrar-producto .form-style{
+    display:block;
+    background-color:#F5F5DC;
+    color:#930001 ;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    font: nunito;
+    border:2px outset #930001;
+    width: 700px;
+    place-content: center;
+}
+
+.principal-cuenta-habitacion .principal-registrar-producto .form-style .contenido{
+
+    width: 200px;
+}
+
+.usuario .boton-pago{
+  background-color:#F5F5DC;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.principal-cuenta-habitacion{
+  background-color:#F5F5DC;
+  height: 400px;
+  width: auto;
+
+}
+
+.contenedor-formulario-pagotarjeta {
+  background-color:#F5F5DC;
+  border:2px outset #930001;
+  margin-top: 10px;
+  margin-left: 55px;
+  margin-right: 510px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  height: 280px;
+  width:300px;
+}
+.formulario-pagotarjeta {
+  background-color: #F5F5DC;
+  height: 260px;
+  width: 280px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 280px;
+  border-radius: 8px;
+  color: #930001;
+  font: nunito;
+}
+
+.contenedor-formulario-pagoefectivo {
+  background-color: #F5F5DC;
+  border:2px outset #930001;
+  margin-top: 15px;
+  margin-left: 15px;
+  margin-right: 530px;
+  margin-bottom: 210px;
+  border-radius: 8px;
+  width: 385px;
+  height: 120px;
+}
+.formulario-pagoefectivo {
+  background-color: #F5F5DC;
+  height: 100px;
+  width: 360px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 10px;
+  margin-right: 280px;
+  border-radius: 8px;
+  color: #930001;
+  font: nunito;
+}
+
+.acordeon-pago{
+  color: #930001;
+  font: nunito;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 500px;
+  margin-right: 500px;
+  width: 450px;
+  height: 100px;
+  background-color: aqua;
+}
+
+.acordeon-body-efectivo{
+
+  height: 150px;
+}
+
+.acordeon-body-tarjeta{
+
+  height: 300px;
+}
+
+.title-acordeon{
+  
+  color:#930001;
+  font: nunito;
+}
+
+.formulario-datosoperacion{
+  background-color: #F5F5DC;
+  height: 160px;
+  width: 260px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  margin-left: 30px;
+  margin-right: 280px;
+  border-radius: 8px;
+  color: #930001;
+  font: nunito;
+}
+.contenedor-formulario-datosoperacion{
+  background-color:#F5F5DC;
+  border:2px outset #930001;
+  margin-top: 10px;
+  margin-left: 55px;
+  margin-right: 510px;
+  margin-bottom: 30px;
+  border-radius: 8px;
+  height: 240px;
+  width:320px;
+}
+
+.margen-fila{
+  border-bottom: 2px outset #930001;
+  text-align: center;
+
+}
+.margen-ultima-fila{
+  border-bottom: 0px outset #F5F5DC;
+  text-align: center;
+
+}
+
+
+

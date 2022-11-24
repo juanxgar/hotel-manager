@@ -1,0 +1,26 @@
+.usuario{
+    position: relative;
+}
+
+.tabla-usuarios{
+    margin-left: 40px;
+    text-align: center;
+}
+
+.boton-usuarios{
+    margin-left: auto;
+}
+
+.table-head{
+    background-color: #930001;
+    color: #F5F5DC;
+}
+
+.titulo-principal{
+    color: #930001;
+    margin-left: 50px;
+}
+
+.titulo-boton{
+    margin-bottom: 10px;
+}

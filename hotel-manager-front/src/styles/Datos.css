@@ -1,0 +1,7 @@
+.block-example {
+    border: 5px outset red;
+    padding: 8px 15px;
+    background-color: lightblue;
+    border-radius: 30px; 
+
+} 

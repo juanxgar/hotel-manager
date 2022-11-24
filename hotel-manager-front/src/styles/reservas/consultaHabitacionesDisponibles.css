@@ -1,0 +1,26 @@
+.habitaciones-disponibles{
+    background-color: #F5F5DC;
+}
+
+.titulo-principal{
+    color: #930001;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 120px;
+}
+
+.cards-habitaciones{
+    margin-bottom: 30px;
+    margin-left: 120px;
+}
+.card-habitacion{
+    margin-bottom: 30px;
+    margin-left: 180px;
+}
+
+.linea-tiempo{
+    margin-left: 120px;
+    margin-right: 140px;
+    margin-top: 30px;
+    margin-bottom: 20px;
+}

@@ -1,0 +1,36 @@
+img{
+    display: block;
+    margin: auto;
+}
+
+.card_login{
+    border-radius: 15px;
+    margin: 20px;
+    color: #F5F5DC;
+}
+
+.campo_texto{
+  margin: 10px;
+}
+
+.login{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    width: 200px;       
+    height: 200px;
+    position: absolute;
+    align-items: center;
+    top:25%;        
+    bottom: 25%;
+    margin: 10px;
+}
+
+.login-contenedor{
+    background-color: #F5F5DC;
+    min-height: 120vh;
+}
+
+.login-boton{
+    text-align: center;
+    align-items: center;
+}

@@ -1,0 +1,54 @@
+.card:hover {
+    box-shadow: 5px 10px 20px 1px #6cfa0d46 !important;
+    transition: all 0.7s linear;
+  }
+  
+  .card-body {
+    padding: 2rem 0 !important;
+  }
+  
+  .card-text {
+    padding: 0.3rem 1rem;
+    font-size: 1rem;
+    
+  }
+  .card-title{
+    color: #960001;
+  }
+  .card-title-title{
+    color: #960001;
+  }
+  
+  .overflow {
+    overflow: hidden;
+  }
+  
+  .card-img-top {
+    transform: scale(1);
+    transition: all 0.2s ease-in-out;
+  }
+  
+  .card-img-top:hover {
+    transform: scale(1.8);
+  }
+  .card{
+    margin: 10px;
+  }
+
+  .container{
+    margin-bottom: 20px;
+  }
+
+  .button-link{
+    color: black;
+    text-decoration: none;
+  }
+  .button-link:hover{
+    color: black;
+    text-decoration: none;
+  }
+
+  .Link{
+    color: black;
+    text-decoration: none;
+  }

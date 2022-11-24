@@ -1,0 +1,44 @@
+.tab-style
+{
+    margin-left: 200px;
+    margin-right: 200px;
+    
+}
+
+.tab-style .mb-3{
+    border-color: #930001;
+    font: nunito;
+
+}
+
+
+.form-style{
+    border: 2px outset #930001;
+    padding: 8px 15px;
+    background-color:#F5F5DC;
+    color:#930001 ;
+    border-radius: 10px; 
+    margin-left: 100px;
+    margin-right: 100px;
+    font: nunito;
+    
+}
+
+.principal{
+    background-color:#F5F5DC;
+}
+.principal .title-style{
+
+    color:#930001 ;
+    margin-top: 10px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+.margen-footer{
+    margin-bottom: 20px;
+}
+
+.date-picker{
+    align-content: center;
+}
